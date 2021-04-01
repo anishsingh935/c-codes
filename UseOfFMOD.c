@@ -12,15 +12,6 @@
 //     return 0;
 // }
 
-#include <stdlib.h>
-#include <time.h>
-#include <stdio.h>
-int main()
-{
-  srand(time(NULL));
-  printf("%d", rand() % 6);
-  return 0;
-}
 // C++ program to find modulo of floating 
 // point numbers.
 // #include <bits/stdc++.h>
